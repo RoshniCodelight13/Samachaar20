@@ -1,0 +1,149 @@
+{
+    "status": "ok",
+    "totalResults": 11,
+    "articles": [
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": null,
+            "title": "Roku launches the 'Women’s Sports Zone' | Engadget",
+            "description": "It brings live and pre-recorded women's sports content into one place..",
+            "url": "https://www.engadget.com/roku-launches-the-womens-sports-zone-130017243.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/W0ETbFd76d8W5YuW907g9A--~B/aD02NzQ7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/b8f5d950-f489-11ed-b6fe-cbf3299d48b6.cf.jpg",
+            "publishedAt": "2023-05-17T13:07:20.555909Z",
+            "content": "It's no secret that, regardless of skill level, women's sports are broadcast and funded a whole lot less than men's sports. While serious structural shifts are needed to rectify this, small changes a… [+1197 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Michael Rothstein",
+            "title": "EA Sports letting FBS players opt in to 2024 video game - ESPN",
+            "description": "Eligible FBS players can opt in to have their likenesses in EA Sports College Football, which is set for release in 2024.",
+            "url": "https://www.espn.com/college-football/story/_/id/37668089/ea-sports-letting-fbs-players-opt-2024-video-game",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1122%2Fr1094694_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-05-17T12:30:00Z",
+            "content": "When the first version of a college football video game in years comes out next summer, the virtual likenesses of actual players will be in the game.\r\nAn EA Sports representative confirmed to ESPN on… [+2235 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "Coyotes again at a crossroads after arena plans voted down by Tempe residents | CBC Sports",
+            "description": "Voters in the Phoenix suburb of Tempe rejected three propositions to build an entertainment district that would include a new arena for the Arizona Coyotes. The NHL said it was \"terribly disappointed\" with the vote results.",
+            "url": "http://www.cbc.ca/sports/hockey/coyotes-arena-referendum-tempe-1.6845984",
+            "urlToImage": "https://i.cbc.ca/1.6845992.1684322189!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1437532930.jpg",
+            "publishedAt": "2023-05-17T12:22:23.6181948Z",
+            "content": "The Arizona Coyotes' bid for a new arena appears to be dead.\r\nIn the first release of results from Tuesday's referendum, voters in the Phoenix suburb of Tempe were strongly against three propositions… [+3851 chars]"
+        },
+        {
+            "source": {
+                "id": "nhl-news",
+                "name": "NHL News"
+            },
+            "author": "NHL.com",
+            "title": "Coyotes future unclear after public votes against Tempe arena",
+            "description": "The future of the Arizona Coyotes is unclear after a public vote went against a proposed Tempe Sports and Entertainment district that would have kept the team in the East Valley city.",
+            "url": "https://www.nhl.com/news/arizona-coyotes-tempe-arena-project-voted-down/c-344430868",
+            "urlToImage": "https://cms.nhl.bamgrid.com/images/photos/297730276/1024x576/cut.jpg",
+            "publishedAt": "2023-05-17T04:11:06Z",
+            "content": "The future of the Arizona Coyotes is unclear after a public vote went against a proposed Tempe Sports and Entertainment district that would have kept the team in the East Valley city.\"The National Ho… [+1838 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": " WEMBY LOTTERY TONIGHT ",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/445487-hero-ball--2023-nba-draft-lottery",
+            "urlToImage": null,
+            "publishedAt": "2023-05-16T16:37:16.3861969Z",
+            "content": "Hero Ball | 2023 NBA Draft Lottery"
+        },
+        {
+            "source": {
+                "id": "four-four-two",
+                "name": "FourFourTwo"
+            },
+            "author": "Ryan Dabbs",
+            "title": "Premier League referee chief reveals why VAR audio isn't played live during matches",
+            "description": "Howard Webb discussed the controversies of VAR with Jamie Carragher and Gary Neville on Sky Sports' Monday Night Football",
+            "url": "https://www.fourfourtwo.com/news/premier-league-referee-chief-reveals-why-var-audio-isnt-played-live-during-matches",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/ff53AsryvLFhWMaRxPSzjP-1200-80.jpg",
+            "publishedAt": "2023-05-16T14:00:04Z",
+            "content": "PGMOL chief refereeing officer Howard Webb has revealed why live audio and footage between Video Assistant Referees and on-field refs isn't allowed during Premier League games. \r\nIn an attempt to pro… [+1900 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "☄️ Knicks Playoff Special ",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/431020-knicks-start-playoff-run--hero-ball",
+            "urlToImage": null,
+            "publishedAt": "2023-04-17T21:22:15.1716203Z",
+            "content": "Knicks Start Playoff Run | Hero Ball"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "&#x27;The Voncast&#x27; with Myles Garrett",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/304730-the-voncast-with-myles-garrett",
+            "urlToImage": null,
+            "publishedAt": "2022-12-01T18:52:49.4768049Z",
+            "content": "Myles Garrett and Von Miller talk playing in the NBA, pick their dream NFL defense and more"
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "The Washington Times https://www.washingtontimes.com",
+            "title": "Latest Quizzes",
+            "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+            "url": "https://www.washingtontimes.com/quiz/",
+            "urlToImage": null,
+            "publishedAt": "2022-08-30T16:37:43.8583104Z",
+            "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+        },
+        {
+            "source": {
+                "id": "nrk",
+                "name": "NRK"
+            },
+            "author": "NRK",
+            "title": "De siste sportsnyhetene fra NRK",
+            "description": "Her får du de siste sportsnyhetene fra NRK.",
+            "url": "https://www.nrk.no/sport/sportsnyheter-1.14660227#1.16413279.1.16413279",
+            "urlToImage": "https://gfx.nrk.no/7kT5zGoE2E-GnUKLojH1PQ0I1Nze4Ypu8lxM-oBjubQw.jpg",
+            "publishedAt": "2019-08-14T09:09:42Z",
+            "content": "16. mai2023kl.21:46Viking slet lenge hjemme mot gjerrige Odd, men vendte kampen til 3-2 takket være to straffescoringer og et sent mål av Sander Svendsen.\r\nDet ble full jubel blant hjemmefansen i Sta… [+1641 chars]"
+        },
+        {
+            "source": {
+                "id": "nrk",
+                "name": "NRK"
+            },
+            "author": "NRK",
+            "title": "De siste sportsnyhetene fra NRK",
+            "description": "Her får du de siste sportsnyhetene fra NRK.",
+            "url": "https://www.nrk.no/sport/sportsnyheter-1.14660227#1.16413157.1.16413157",
+            "urlToImage": "https://gfx.nrk.no/7kT5zGoE2E-GnUKLojH1PQ0I1Nze4Ypu8lxM-oBjubQw.jpg",
+            "publishedAt": "2019-08-14T09:09:42Z",
+            "content": "16. mai2023kl.21:46Viking slet lenge hjemme mot gjerrige Odd, men vendte kampen til 3-2 takket være to straffescoringer og et sent mål av Sander Svendsen.\r\nDet ble full jubel blant hjemmefansen i Sta… [+1641 chars]"
+        }
+    ]
+}
